@@ -1,0 +1,8 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Name=GIES
+Exec=python3 /home/abhishek/Desktop/GIES/gies.py
+Icon=/home/abhishek/Desktop/GIES/img/gies_logo.jpg
+Terminal=true
+Type=Application
